@@ -1,1 +1,1 @@
-**Hi there 👋** and welcome on my profile. I've recently launched my latest game **[Whoomb](https://whoomb.com)**, please feel free to try it out!
+**Hi there 👋** and welcome on my profile. I've recently launched my latest game **[Whoomb](https://whoomb.com)**, please feel free to try it out! During the development I've opensources a lot of it's modules to my public team [El Raccoone](https://github.com/elraccoone).
