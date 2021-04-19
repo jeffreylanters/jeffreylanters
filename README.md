@@ -11,7 +11,7 @@ Thank you so much! and feel free to use any of my modules. If you're using this 
 **&Lt;**
 [**Unity Modules**](https://github.com/jeffreylanters?tab=repositories&q=&type=public&language=c%23&sort=stargazers) &middot;
 [**Node/Web Packages**](https://github.com/jeffreylanters?tab=repositories&q=&type=public&language=typescript&sort=stargazers) &middot;
-[**My Work**](https://jeffreylanters.nl/) &middot;
+[**My Published Work**](https://jeffreylanters.nl/) &middot;
 [**Buy me a Coffee**](https://jeffreylanters.nl/sponsor)
 **&Gt;**
 
