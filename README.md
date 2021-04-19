@@ -8,4 +8,11 @@ I've been a Unity developer since 2012. While getting interested in web-developm
 
 Thank you so much! and feel free to use any of my modules. If you're using this module for production, please consider [donating to support the project](https://jeffreylanters.nl/donate). It does mean the world to me, and it really helps me going with the project.
 
+**&Lt;**
+[**Unity Modules**](https://github.com/jeffreylanters?tab=repositories&q=&type=public&language=c%23&sort=stargazers) &middot;
+[**Node/Web Packages**](https://github.com/jeffreylanters?tab=repositories&q=&type=public&language=typescript&sort=stargazers) &middot;
+[**My Work**](https://jeffreylanters.nl/)
+[**Buy me a Coffee**](https://jeffreylanters.nl/sponsor)
+**&Gt;**
+
 </div>
