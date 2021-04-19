@@ -1,6 +1,8 @@
 <div align="center">
-  
-Heyya' Awesome you're here! Thanks for checking out my profile, My name is Jeffrey Lanters, born and living in the Netherlands. I’m a developer and designer in a broad field of games and apps, love to teach about game development, and help others by contributing in the world of open source software. On the rare occasion I'm not behind my screen, I'm probably at my horses, working on my car, or petting my cats. 
+
+## Welcome! 🦝
+
+Awesome you're here! Thanks for checking out my profile, My name is Jeffrey Lanters, born and living in the Netherlands. I’m a developer and designer in a broad field of games and apps, love to teach about game development, and help others by contributing in the world of open source software. On the rare occasion I'm not behind my screen, I'm probably at my horses, working on my car, or petting my cats. 
 
 I've been a Unity developer since 2012, oh boy I'm getting old! While getting interested in web-development I realised Unity was lacking an open source community, so I decided to start sharing my modules by open-sourcing 'em, and so a new hobby was born. It somewhat became my part-time job to build and share open software on GitHub, NPM and OpenUPM. I'm getting really excited to helping other developers, and seeing people build awesome stuff using my tools.
 
