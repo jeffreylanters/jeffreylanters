@@ -12,7 +12,7 @@ Feel free to use any of my modules. If you're using this module for production, 
 [**Unity Modules**](https://github.com/jeffreylanters?tab=repositories&q=&type=public&language=c%23&sort=stargazers) &middot;
 [**Node/Web Packages**](https://github.com/jeffreylanters?tab=repositories&q=&type=public&language=typescript&sort=stargazers) &middot;
 [**My Published Work**](https://jeffreylanters.nl/) &middot;
-[**Sponsor Me**](https://jeffreylanters.nl/sponsor)
+[**Sponsor Me**](https://github.com/sponsors/jeffreylanters)
 **&Gt;**
 
 </div>
