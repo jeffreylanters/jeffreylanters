@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there! 🦝
+## Bringing Open Source to Game Developers 🦝
 
 Awesome you're here! Thanks for checking out my profile, My name is Jeffrey Lanters, born and living in the Netherlands. I’m a developer and designer in a broad field of games and apps, love to teach about game development, and help others by contributing in the world of open source software. On the rare occasion I'm not behind my screen, I'm probably at my horses, working on my car, or petting my cats. 
 
