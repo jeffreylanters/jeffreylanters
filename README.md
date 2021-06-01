@@ -11,7 +11,7 @@ Feel free to use any of my modules. If you're using this module for production, 
 **&Lt;**
 [**Unity Modules**](https://github.com/jeffreylanters?tab=repositories&q=&type=public&language=c%23&sort=stargazers) &middot;
 [**Node/Web Packages**](https://github.com/jeffreylanters?tab=repositories&q=&type=public&language=typescript&sort=stargazers) &middot;
-[**Other Code**](https://github.com/jeffreylanters?tab=repositories&q=&type=public&language=&sort=) &middot;
+[**All Code**](https://github.com/jeffreylanters?tab=repositories&q=&type=public&language=&sort=) &middot;
 [**Sponsor Me**](https://github.com/sponsors/jeffreylanters)
 **&Gt;**
 
