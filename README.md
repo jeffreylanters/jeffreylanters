@@ -1,6 +1,10 @@
 <div align="center">
 
 ## Bringing Open Source to Game Developers 🦝
+  
+[![stars](https://img.shields.io/github/stars/jeffreylanters?color=fe8523&label=stargazers&style=for-the-badge)](https://github.com/jeffreylanters?tab=repositories&q=&type=&language=&sort=stargazers)
+[![sponsors](https://img.shields.io/github/sponsors/jeffreylanters?color=E12C9A&style=for-the-badge)](https://github.com/sponsors/jeffreylanters)
+[![followers](https://img.shields.io/github/followers/jeffreylanters?style=for-the-badge)](https://github.com/jeffreylanters?tab=followers)
 
 Awesome you're here! Thanks for checking out my profile, My name is Jeffrey Lanters, born and living in the Netherlands. I’m a developer and designer in a broad field of games and apps, love to teach about game development, and help others by contributing in the world of open source software. On the rare occasion I'm not behind my screen, I'm probably at my horses, working on my car, or petting my cats. 
 
