@@ -1,6 +1,6 @@
 <div align="center">
 
-## Bringing Open Source to Game Developers 🦝
+<!-- ## Bringing Open Source to Game Developers 🦝 -->
   
 [![stars](https://img.shields.io/github/stars/jeffreylanters?color=fe8523&label=stargazers&style=for-the-badge)](https://github.com/jeffreylanters?tab=repositories&q=&type=&language=&sort=stargazers)
 [![sponsors](https://img.shields.io/github/sponsors/jeffreylanters?color=E12C9A&style=for-the-badge)](https://github.com/sponsors/jeffreylanters)
