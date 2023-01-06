@@ -12,10 +12,4 @@ I've been a Unity developer since 2012 - oh boy I'm getting old - While getting 
 
 Feel free to use any of my modules. If you're using this module for production, please consider sponsoring me to support my open-source projects. It does mean the world to me, and it really helps me going on and doing the things I love. Thank you!
 
-**&Lt;**
-[**Unity Modules**](https://github.com/jeffreylanters?tab=repositories&q=&type=public&language=c%23&sort=stargazers) &middot;
-[**Node/Web Packages**](https://github.com/jeffreylanters?tab=repositories&q=&type=public&language=typescript&sort=stargazers) &middot;
-[**All of my Projects**](https://github.com/jeffreylanters?tab=repositories&q=&type=public&language=&sort=)
-**&Gt;**
-
 </div>
