@@ -4,7 +4,7 @@
 [![followers](https://img.shields.io/github/followers/jeffreylanters?style=for-the-badge)](https://github.com/jeffreylanters?tab=followers)
 [![sponsors](https://img.shields.io/github/sponsors/jeffreylanters?color=E12C9A&style=for-the-badge)](https://github.com/sponsors/jeffreylanters)
 
-Hello there, thanks for checking out my GitHub profile! My name is Jeffrey Lanters, and I was born and living in The Netherlands. Although I initially started my studies in game development and design, I eventually fell in love with application and web development, leading me to discover the incredible open-source community. Which now, I take great pride in contributing to both game and application development within.
+Hello there, thanks for checking out my GitHub profile! My name is Jeffrey Lanters, born and currently living in The Netherlands. Although I initially started my studies in game development and design, I eventually fell in love with application and web development, leading me to discover the incredible open-source community. Which now, I take great pride in contributing to both game and application development within.
 
 In recent years, I co-founded my own studio; Hulan, where we combine our passion for technology and design to create a diverse range of products. Our creations includes everything from serious games to dashboards, and from virtual reality experiences to artificial intelligence applications. Feel free to come by if you're nearby!
 
