@@ -12,4 +12,6 @@ In recent years, I co-founded my own studio; Hulan, where we combine our passion
 
 Feel free to use any of my modules. If you're using any of these modules for production purposes, please consider sponsoring me to support my open-source projects. It means the world to me and truly enables me to continue doing what I love. Your support is immensely appreciated! Thank you!
 
+![https://www.ilikesticker.com/LineStickerAnimation/W3569627-Raccoon-Charlie/EN](https://github.com/jeffreylanters/jeffreylanters/blob/master/snacking-coone.gif?raw=true)
+
 </div>
