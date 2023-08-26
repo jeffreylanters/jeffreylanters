@@ -8,7 +8,7 @@ Hello there, thanks for checking out my GitHub profile! My name is Jeffrey Lante
 
 In recent years, I co-founded my own studio; Hulan, where we combine our passion for technology and design to create a diverse range of products. Our creations includes everything from serious games to dashboards, and from virtual reality experiences to artificial intelligence applications. Feel free to come by if you're nearby!
 
-「レトロ」ゲームへの愛から、私は2022年に日本語の勉強を始めました。私はまだお気に入りのRPGを字幕なしでプレイするには長い道のりがありますが、それは見逃したくない冒険です！自由に日本語で話しかけてください。英語やオランダ語でも構いませんよ！そして、良いゲームのおすすめがあればいつでも歓迎します。
+ゲームへの愛から、私は2022年に日本語の勉強を始めました。私はまだお気に入りのRPGを字幕なしでプレイするには長い道のりがありますが、それは見逃したくない冒険です！自由に日本語で話しかけてください。英語やオランダ語でも構いませんよ！そして、良いゲームのおすすめがあればいつでも歓迎します。
 
 Feel free to use any of my modules. If you're using any of these modules for production purposes, please consider sponsoring me to support my open-source projects. It means the world to me and truly enables me to continue doing what I love. Your support is immensely appreciated! Thank you!
 
